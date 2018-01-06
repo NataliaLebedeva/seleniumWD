@@ -1,2 +1,2 @@
 # seleniumWD
-seleniumWD homeEd
+seleniumWD home
